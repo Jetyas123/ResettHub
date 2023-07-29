@@ -1,1 +1,2 @@
-update
+local key = "goodnighteveryone"
+return key
